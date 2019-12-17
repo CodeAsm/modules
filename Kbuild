@@ -1,3 +1,3 @@
 EXTRA_CFLAGS = -Wall -g
 
-obj-m        = mod.o
+obj-m        = hello.o
