@@ -19,18 +19,18 @@ once compiled, use lsmod to list current loaded modules and modprobe to either i
 
 ## example
 Install module into kernel
-'''
+```
 modprobe hello
-'''
+```
 
 Remove module into kernel
-'''
+```
 modprobe -r hello
-'''
+```
 
 Install module with additional arguments into kernel
-'''
+```
 modprobe hello whom=codeasm howmany=2
-'''
+```
 where whom will be the string name of who to call hello to and
 howmany the amount int of the message be repeated.
