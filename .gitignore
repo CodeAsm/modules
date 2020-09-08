@@ -1,0 +1,15 @@
+.hello.ko.cmd
+.built-in.a.cmd
+.hello.mod.o.cmd
+.hello.mod.cmd
+.hello.o.cmd
+.Module.symvers.cmd
+built-in.a
+.modules.order.cmd
+hello.ko
+hello.mod
+hello.mod.c
+hello.mod.o
+hello.o
+modules.order
+Module.symvers
