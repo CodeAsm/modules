@@ -8,3 +8,4 @@ kbuild:
 clean:
 	make -C $(KDIR) M=`pwd` clean
 	rm ../../bin/hello.ko
+	rm hello.ko hello.mod hello.mod.o hello.o
